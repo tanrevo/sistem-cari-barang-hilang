@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "nama_barang": "Tumbler Corkcicle Hitam",
+        "kategori": "Botol Minum",
+        "lokasi": "Kantin Utama",
+        "status": "Sudah Kembali ke Pemilik",
+        "nama_pelapor": "Ani",
+        "kontak_pelapor": "08987654321",
+        "keterangan": "Ada stiker kucing",
+        "foto": "",
+        "pin": "f8638b979b2f4f793ddb6dbd197e0ee25a7a6ea32b0ae22f5e3c5d119d839e75",
+        "tanggal_lapor": "2026-11-25 12:02",
+        "tanggal_update": "2026-11-25 12:02"
+    }
+]
