@@ -222,3 +222,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+# Data lokal project
+data_barang.json
+uploads/barang/
+
+
