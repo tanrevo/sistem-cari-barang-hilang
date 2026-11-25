@@ -105,19 +105,19 @@ def hapus_barang(id_barang):
 if __name__ == "__main__":
     print("Testing database.py...")
     tambah_barang(
-        "Kunci Motor Honda",
-        "Kunci",
-        "Parkiran Gedung B",
-        "Ditemukan",
-        "08123456789",
-        "Gantungan kunci boneka kecil",
+        "Kunci Motor Honda \n",
+        "Kunci\n",
+        "Parkiran Gedung B\n",
+        "Ditemukan\n",
+        "08123456789\n",
+        "Gantungan kunci boneka kecil\n",
     )
     tambah_barang(
-        "Tumbler Corkcicle Hitam",
-        "Botol Minum",
-        "Kantin Utama",
-        "Hilang",
-        "08987654321",
-        "Ada stiker kucing",
+        "Tumbler Corkcicle Hitam\n",
+        "Botol Minum\n",
+        "Kantin Utama\n",
+        "Hilang\n",
+        "08987654321\n",
+        "Ada stiker kucing\n",
     )
     print("Isi database saat ini:", muat_data())
